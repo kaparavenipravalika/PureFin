@@ -6,5 +6,7 @@ PureFin stands out as a distinctive aquaculture monitoring solution due to its i
 Tech Stack used
 
 Firebase
+
 Flutter
-Arduino UNO Node MCU with wifi module DHT11, turbidity sensor, PH sensor, od sensor, orp sensor
+
+Arduino UNO, Node MCU with wifi module, DHT11, turbidity sensor, PH sensor, DO sensor, orp sensor
