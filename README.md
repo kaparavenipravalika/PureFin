@@ -10,3 +10,6 @@ Tech Stack used:
 *Flutter
 
 *Arduino UNO, Node MCU with wifi module, DHT11, turbidity sensor, PH sensor, DO sensor, orp sensor
+
+# Screenshots
+
