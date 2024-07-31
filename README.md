@@ -14,3 +14,7 @@ Tech Stack used:
 # Screenshots
 
 ![s1](https://github.com/user-attachments/assets/05c2a9e6-d703-4bd1-b15f-95eecbb319ae)
+
+
+![s2](https://github.com/user-attachments/assets/410d34b4-4d05-4310-8f1e-41494bd9ff79)
+
